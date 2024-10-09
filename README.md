@@ -11,4 +11,4 @@ Additional Info: Includes humidity, wind speed, and more.
 Responsive Design: Works on all screen sizes, from desktops to mobile devices.
 
 # 🖼 Preview
-![Alt Text](Preview.png)
+![Alt Text](./Weather App/Preview.png)
